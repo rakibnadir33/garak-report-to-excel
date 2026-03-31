@@ -26,6 +26,8 @@ Generates `garak_results.xlsx` in the current directory with three columns:
 - probe — the Garak probe name
 - prompt — the exact prompt sent to the model
 - response — the model's response
+- <img width="1569" height="722" alt="image" src="https://github.com/user-attachments/assets/dfe9dade-7e4e-4e5b-a877-8f8bd26c4c1d" />
+
 
 ## Compatible with
 
